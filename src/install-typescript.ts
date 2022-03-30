@@ -1,2 +1,2 @@
-const message: string = 'おはよう世界';
+const message: string = '♪グッドモーニングワールド〜';
 console.log({ message });
