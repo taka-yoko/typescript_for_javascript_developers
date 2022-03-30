@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "https://www.udemy.com/course/ts-for-js-developers/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taka-yoko/typescript_for_javascript_developers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taka-yoko/typescript_for_javascript_developers/issues"
+  },
+  "homepage": "https://github.com/taka-yoko/typescript_for_javascript_developers#readme"
+}
