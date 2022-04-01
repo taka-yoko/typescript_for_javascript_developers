@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/taka-yoko/typescript_for_javascript_developers#readme",
   "devDependencies": {
-    "ts-node": "^8.6.2",
+    "ts-node": "^8.5.4",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.7.5"
   }
